@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion\\Personales\\isuarez\\BlackJack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCF01C1-EDBA-4A09-B306-0EDF200D66C2}|BlackJack.csproj|c:\\programacion\\personales\\isuarez\\blackjack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCF01C1-EDBA-4A09-B306-0EDF200D66C2}|BlackJack.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCF01C1-EDBA-4A09-B306-0EDF200D66C2}|BlackJack.csproj|c:\\programacion\\personales\\isuarez\\blackjack\\pokercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCF01C1-EDBA-4A09-B306-0EDF200D66C2}|BlackJack.csproj|solutionrelative:pokercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCF01C1-EDBA-4A09-B306-0EDF200D66C2}|BlackJack.csproj|C:\\Programacion\\Personales\\isuarez\\BlackJack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CCF01C1-EDBA-4A09-B306-0EDF200D66C2}|BlackJack.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Programacion\\Personales\\isuarez\\BlackJack\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Programacion\\Personales\\isuarez\\BlackJack\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:20:51.192Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokerCard.cs",
+              "DocumentMoniker": "C:\\Programacion\\Personales\\isuarez\\BlackJack\\PokerCard.cs",
+              "RelativeDocumentMoniker": "PokerCard.cs",
+              "ToolTip": "C:\\Programacion\\Personales\\isuarez\\BlackJack\\PokerCard.cs",
+              "RelativeToolTip": "PokerCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:10:35.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Programacion\\Personales\\isuarez\\BlackJack\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Programacion\\Personales\\isuarez\\BlackJack\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:43:59.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
